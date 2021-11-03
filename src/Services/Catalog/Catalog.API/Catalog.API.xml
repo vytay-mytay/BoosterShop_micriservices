@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Catalog.API</name>
+    </assembly>
+    <members>
+        <member name="M:Catalog.API.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get weather forecast
+            </summary>
+            <remarks>
+            
+            GET WeatherForecast
+            
+            </remarks>
+            <returns>List of weather forcasts</returns>
+        </member>
+    </members>
+</doc>
